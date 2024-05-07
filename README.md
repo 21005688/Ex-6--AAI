@@ -19,8 +19,7 @@ Step 5:Iterate through each word in the tokenized text.<br>
 <H3>Program:</H3>
 
 ```
-Sowmiya N
-212221230106
+
 
 import nltk
 from nltk.corpus import wordnet
